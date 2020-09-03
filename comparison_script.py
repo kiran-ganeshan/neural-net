@@ -6,10 +6,9 @@ import matplotlib.pyplot as plt
 import itertools
 from model import *
 from optimizer import *
-from tabulate import tabulate
 
-num_nets = 5
-epochs = 30
+num_nets = 3
+epochs = 5
 toolbar_width = 30
 alpha = 0.01
 lamb = 0.03
